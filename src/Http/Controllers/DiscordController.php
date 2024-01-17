@@ -6,6 +6,7 @@ use Illuminate\Http\JsonResponse;
 use Illuminate\Http\RedirectResponse;
 use App\Providers\RouteServiceProvider;
 use Illuminate\Support\Facades\DB;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
 use Jakyeru\Larascord\Http\Requests\StoreUserRequest;
 use Jakyeru\Larascord\Services\DiscordService;
